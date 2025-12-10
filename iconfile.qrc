@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/network.ico</file>
+        <file>images/ledoff.png</file>
+        <file>images/ledon.png</file>
+    </qresource>
+</RCC>
