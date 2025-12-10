@@ -30,7 +30,9 @@ NetAssist 是一个基于 **Qt** 开发的网络调试工具，支持 **TCP 客�
 - 简洁易用的界面布局
 - 多标签页功能（如已实现）
 - 操作日志区 + 数据区分展示
-<img width="789" height="633" alt="image" src="https://github.com/user-attachments/assets/6bdaeee7-9e56-4913-b554-f7102bdfa1a3" />
+- 界面示例：
+<img width="1032" height="724" alt="image" src="https://github.com/user-attachments/assets/87354bfb-35ab-4fff-be70-bf4277c3d864" />
+
 
 ## 📦 技术栈
 
